@@ -1,5 +1,5 @@
 # Bibtex-Key-with-GUI
-Extract the Bibtex key using GUI
+Extract the Bibtex key using GUI. This package is programmed to fetch the bibtex key of research papers. 
 
 Install this package by command: pip install GUI-BibText
 
@@ -11,3 +11,4 @@ Steps to Run:
 Key extracting module is referred from: https://github.com/venthur/gscholar
 
 * Freely usable for non-commercial purposes.
+* This is in raw form. Improvements required.(Limitation: Only few Bibtex key can be fetched)
