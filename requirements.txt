@@ -1,0 +1,11 @@
+optparse
+sys
+os
+pandas
+Tkinter
+urllib2 # python 2
+urllib  # python 3 
+htmlentitydefs # python 2
+html.entities    # python 3
+logging
+contextlib
