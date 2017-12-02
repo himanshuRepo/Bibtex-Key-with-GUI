@@ -5,10 +5,10 @@ Install this package by command: pip install GUI-BibText
 
 Steps to Run: 
 1) $ gBibText
-2) In the GUI, enter the complete path along Excel filename containing names of the paper(row-wise).
-3) The output file will store in the current working directory
+2) In the GUI, enter the complete path of Excel file containing names of the paper(row-wise) [PaperList is a Template].
+3) The output file will store in the current working directory and will be named as bibtexFile.xlsx; containing the bibtex        keys.
 
 Key extracting module is referred from: https://github.com/venthur/gscholar
 
 * Freely usable for non-commercial purposes.
-* This is in raw form. Improvements required.(Limitation: Only few Bibtex key can be fetched)
+* This is in raw form. Progress is going on.(Limitation: Only few Bibtex key can be fetched after Google Scholar prompts 'HTTP Error 503: Service Unavailable'.)
